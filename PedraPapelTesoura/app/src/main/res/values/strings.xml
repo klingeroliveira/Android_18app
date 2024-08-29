@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pedra, Papel ou Tesoura projeto</string>
+    <string name="labelTop">Escolha do app</string>
+    <string name="ganhou">Você ganhou :)</string>
+    <string name="perdeu">Você perdeu :(</string>
+    <string name="empate">Empatamos :|</string>
+</resources>

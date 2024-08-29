@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="tituloMateria">Aprenda sobre edição de imagens</string>
+    <string name="dataMateria">16/05/2030</string>
+    <string name="loremIpsumCurto">Lorem ipsum dolor sit amet. Et galisum quae nam illum dicta qui dolorem maiores qui expedita perspiciatis et neque quibusdam. Et odit aspernatur ut quis fugiat vel omnis nisi et velit laboriosam non odit quae! Sit quasi vitae eos voluptas ducimus qui tempore odio? At doloremque dolor ut neque nesciunt aut voluptate quidem est quas veritatis qui quisquam error hic sunt beatae.
+        Lorem ipsum dolor sit amet. Et galisum quae nam illum dicta qui dolorem maiores qui expedita perspiciatis et neque quibusdam. Et odit aspernatur ut quis fugiat vel omnis nisi et velit laboriosam non odit quae! Sit quasi vitae eos voluptas ducimus qui tempore odio? At doloremque dolor ut neque nesciunt aut voluptate quidem est quas veritatis qui quisquam error hic sunt beatae.
+    </string>
+    <string name="autorMateria">Klinger Oliveira</string>
+    <string name="buttomProx">Próximo</string>
+    <string name="buttomAnt">Anterior</string>
+
+
+
+</resources>

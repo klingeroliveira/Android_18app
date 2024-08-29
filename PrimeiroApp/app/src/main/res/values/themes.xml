@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PrimeiroApp" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/colorTop</item>
+        <item name="colorPrimary">@color/colorTop2</item>
+        <item name="android:textColorPrimary">@color/topText</item>
+        <item name="android:colorButtonNormal">@color/button</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">@color/colorTop2</item>
+
+
+    </style>
+
+    <style name="Theme.PrimeiroApp" parent="Base.Theme.PrimeiroApp" />
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AlcoolOuGasolina" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="colorSecondary">@color/my_light_secundary</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="Theme.AlcoolOuGasolina" parent="Base.Theme.AlcoolOuGasolina" />
+</resources>
